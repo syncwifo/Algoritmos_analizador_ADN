@@ -1,0 +1,22 @@
+{"Manual": {
+        "Alineamiento de secuencias": ["Es una técnica para comparar dos o más secuencias y encontrar regiones de similitud entre ellas.",
+            "Esto puede ayudar a inferir relaciones evolutivas o funcionales entre las secuencias. ",  
+            "Cuando más similares sean dos secuencias más similares tenderán a ser las funciones de las proteínas codificadas por ellas. ",
+            "Normalmente dos secuencias tienen una alta similitud porque son homólogas, es decir comparten un ancestro común.",
+            "A partir de la similitud de las secuencias inferimos la homología. Los algoritmos de alineamiento de secuencias asignan ",
+            "puntuaciones o penalizaciones para determinar la relación evolutiva o la similitud funcional más probable entre las secuencias."
+        ],
+        
+        "Sistema de puntuación alineamiento": [
+            "Asigna un valor numérico a cada par de elementos alineados (al menos uno de ellos debe ser diferente de un hueco). ",
+            "En este caso, el sistema de puntuación es el siguiente:",
+            "+2 para un par idéntico",
+            "-1 para un par diferente",
+            "-2 para abrir un hueco",
+            "-1 para extender un hueco",
+            "Luego la puntuación de un alineamiento es la suma de las puntuaciones de los pares alineados. ",
+            "El objetivo es encontrar el alineamiento que maximice la puntuación"
+        ],
+        "Más info": "https://microbiologynote.com/es/secuencia-alineaci%C3%B3n-definici%C3%B3n-tipos-herramientas-aplicaciones/"
+    }
+}

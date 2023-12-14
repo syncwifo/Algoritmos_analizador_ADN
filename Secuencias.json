@@ -1,0 +1,2502 @@
+[
+    {
+        "nombre": "Secuencia 0",
+        "secuencia": "TGACGGCA",
+        "informacion": "Informacion de la secuencia 0"
+    },
+    {
+        "nombre": "Secuencia 1",
+        "secuencia": "AGCTTTCC",
+        "informacion": "Informacion de la secuencia 1"
+    },
+    {
+        "nombre": "Secuencia 2",
+        "secuencia": "CGTCTGGC",
+        "informacion": "Informacion de la secuencia 2"
+    },
+    {
+        "nombre": "Secuencia 3",
+        "secuencia": "TAATAAAA",
+        "informacion": "Informacion de la secuencia 3"
+    },
+    {
+        "nombre": "Secuencia 4",
+        "secuencia": "CTCTTCTA",
+        "informacion": "Informacion de la secuencia 4"
+    },
+    {
+        "nombre": "Secuencia 5",
+        "secuencia": "ACTACCCG",
+        "informacion": "Informacion de la secuencia 5"
+    },
+    {
+        "nombre": "Secuencia 6",
+        "secuencia": "GCTGTGAA",
+        "informacion": "Informacion de la secuencia 6"
+    },
+    {
+        "nombre": "Secuencia 7",
+        "secuencia": "CTCTATAC",
+        "informacion": "Informacion de la secuencia 7"
+    },
+    {
+        "nombre": "Secuencia 8",
+        "secuencia": "GTAAGAGC",
+        "informacion": "Informacion de la secuencia 8"
+    },
+    {
+        "nombre": "Secuencia 9",
+        "secuencia": "TTTGTTCA",
+        "informacion": "Informacion de la secuencia 9"
+    },
+    {
+        "nombre": "Secuencia 10",
+        "secuencia": "GGAGTGAA",
+        "informacion": "Informacion de la secuencia 10"
+    },
+    {
+        "nombre": "Secuencia 11",
+        "secuencia": "CAGGCACA",
+        "informacion": "Informacion de la secuencia 11"
+    },
+    {
+        "nombre": "Secuencia 12",
+        "secuencia": "GCTGCCTC",
+        "informacion": "Informacion de la secuencia 12"
+    },
+    {
+        "nombre": "Secuencia 13",
+        "secuencia": "GTTGTAAA",
+        "informacion": "Informacion de la secuencia 13"
+    },
+    {
+        "nombre": "Secuencia 14",
+        "secuencia": "GACCAACA",
+        "informacion": "Informacion de la secuencia 14"
+    },
+    {
+        "nombre": "Secuencia 15",
+        "secuencia": "CATTAGCG",
+        "informacion": "Informacion de la secuencia 15"
+    },
+    {
+        "nombre": "Secuencia 16",
+        "secuencia": "CGGTCGTC",
+        "informacion": "Informacion de la secuencia 16"
+    },
+    {
+        "nombre": "Secuencia 17",
+        "secuencia": "TTATACAG",
+        "informacion": "Informacion de la secuencia 17"
+    },
+    {
+        "nombre": "Secuencia 18",
+        "secuencia": "GAAAACAT",
+        "informacion": "Informacion de la secuencia 18"
+    },
+    {
+        "nombre": "Secuencia 19",
+        "secuencia": "TTGGCATC",
+        "informacion": "Informacion de la secuencia 19"
+    },
+    {
+        "nombre": "Secuencia 20",
+        "secuencia": "AGGCGGTC",
+        "informacion": "Informacion de la secuencia 20"
+    },
+    {
+        "nombre": "Secuencia 21",
+        "secuencia": "CCGTATGG",
+        "informacion": "Informacion de la secuencia 21"
+    },
+    {
+        "nombre": "Secuencia 22",
+        "secuencia": "TGAGGCAA",
+        "informacion": "Informacion de la secuencia 22"
+    },
+    {
+        "nombre": "Secuencia 23",
+        "secuencia": "TATGCACT",
+        "informacion": "Informacion de la secuencia 23"
+    },
+    {
+        "nombre": "Secuencia 24",
+        "secuencia": "CCCTTGAA",
+        "informacion": "Informacion de la secuencia 24"
+    },
+    {
+        "nombre": "Secuencia 25",
+        "secuencia": "TTGACGAG",
+        "informacion": "Informacion de la secuencia 25"
+    },
+    {
+        "nombre": "Secuencia 26",
+        "secuencia": "AGGCAGAA",
+        "informacion": "Informacion de la secuencia 26"
+    },
+    {
+        "nombre": "Secuencia 27",
+        "secuencia": "ACTGATTG",
+        "informacion": "Informacion de la secuencia 27"
+    },
+    {
+        "nombre": "Secuencia 28",
+        "secuencia": "GGTGACTA",
+        "informacion": "Informacion de la secuencia 28"
+    },
+    {
+        "nombre": "Secuencia 29",
+        "secuencia": "AAACCTAT",
+        "informacion": "Informacion de la secuencia 29"
+    },
+    {
+        "nombre": "Secuencia 30",
+        "secuencia": "GCTTTCTA",
+        "informacion": "Informacion de la secuencia 30"
+    },
+    {
+        "nombre": "Secuencia 31",
+        "secuencia": "TATAAGGT",
+        "informacion": "Informacion de la secuencia 31"
+    },
+    {
+        "nombre": "Secuencia 32",
+        "secuencia": "CATGTCCT",
+        "informacion": "Informacion de la secuencia 32"
+    },
+    {
+        "nombre": "Secuencia 33",
+        "secuencia": "TGGAGTAA",
+        "informacion": "Informacion de la secuencia 33"
+    },
+    {
+        "nombre": "Secuencia 34",
+        "secuencia": "AATAGTGA",
+        "informacion": "Informacion de la secuencia 34"
+    },
+    {
+        "nombre": "Secuencia 35",
+        "secuencia": "TGGGACCG",
+        "informacion": "Informacion de la secuencia 35"
+    },
+    {
+        "nombre": "Secuencia 36",
+        "secuencia": "TTGGTTTG",
+        "informacion": "Informacion de la secuencia 36"
+    },
+    {
+        "nombre": "Secuencia 37",
+        "secuencia": "CCCTGGTG",
+        "informacion": "Informacion de la secuencia 37"
+    },
+    {
+        "nombre": "Secuencia 38",
+        "secuencia": "CTCGGTAG",
+        "informacion": "Informacion de la secuencia 38"
+    },
+    {
+        "nombre": "Secuencia 39",
+        "secuencia": "TCAGAGGC",
+        "informacion": "Informacion de la secuencia 39"
+    },
+    {
+        "nombre": "Secuencia 40",
+        "secuencia": "CGCCATCG",
+        "informacion": "Informacion de la secuencia 40"
+    },
+    {
+        "nombre": "Secuencia 41",
+        "secuencia": "GGCCGTAA",
+        "informacion": "Informacion de la secuencia 41"
+    },
+    {
+        "nombre": "Secuencia 42",
+        "secuencia": "TATTCCGT",
+        "informacion": "Informacion de la secuencia 42"
+    },
+    {
+        "nombre": "Secuencia 43",
+        "secuencia": "TTCCCACT",
+        "informacion": "Informacion de la secuencia 43"
+    },
+    {
+        "nombre": "Secuencia 44",
+        "secuencia": "GACGAGTG",
+        "informacion": "Informacion de la secuencia 44"
+    },
+    {
+        "nombre": "Secuencia 45",
+        "secuencia": "GTAAGCCT",
+        "informacion": "Informacion de la secuencia 45"
+    },
+    {
+        "nombre": "Secuencia 46",
+        "secuencia": "TTTTGATC",
+        "informacion": "Informacion de la secuencia 46"
+    },
+    {
+        "nombre": "Secuencia 47",
+        "secuencia": "CAGTTTTT",
+        "informacion": "Informacion de la secuencia 47"
+    },
+    {
+        "nombre": "Secuencia 48",
+        "secuencia": "ATTCTCAT",
+        "informacion": "Informacion de la secuencia 48"
+    },
+    {
+        "nombre": "Secuencia 49",
+        "secuencia": "CTGATGAC",
+        "informacion": "Informacion de la secuencia 49"
+    },
+    {
+        "nombre": "Secuencia 50",
+        "secuencia": "GGTCCGCG",
+        "informacion": "Informacion de la secuencia 50"
+    },
+    {
+        "nombre": "Secuencia 51",
+        "secuencia": "AGTGCGAT",
+        "informacion": "Informacion de la secuencia 51"
+    },
+    {
+        "nombre": "Secuencia 52",
+        "secuencia": "CCACTCCC",
+        "informacion": "Informacion de la secuencia 52"
+    },
+    {
+        "nombre": "Secuencia 53",
+        "secuencia": "GTAATCCG",
+        "informacion": "Informacion de la secuencia 53"
+    },
+    {
+        "nombre": "Secuencia 54",
+        "secuencia": "AAGTGTAG",
+        "informacion": "Informacion de la secuencia 54"
+    },
+    {
+        "nombre": "Secuencia 55",
+        "secuencia": "CCTTACGA",
+        "informacion": "Informacion de la secuencia 55"
+    },
+    {
+        "nombre": "Secuencia 56",
+        "secuencia": "AGCGCAGC",
+        "informacion": "Informacion de la secuencia 56"
+    },
+    {
+        "nombre": "Secuencia 57",
+        "secuencia": "CTAGAGTG",
+        "informacion": "Informacion de la secuencia 57"
+    },
+    {
+        "nombre": "Secuencia 58",
+        "secuencia": "AAACGGTG",
+        "informacion": "Informacion de la secuencia 58"
+    },
+    {
+        "nombre": "Secuencia 59",
+        "secuencia": "GTGCCTAG",
+        "informacion": "Informacion de la secuencia 59"
+    },
+    {
+        "nombre": "Secuencia 60",
+        "secuencia": "GAAGGTAC",
+        "informacion": "Informacion de la secuencia 60"
+    },
+    {
+        "nombre": "Secuencia 61",
+        "secuencia": "CAACATTA",
+        "informacion": "Informacion de la secuencia 61"
+    },
+    {
+        "nombre": "Secuencia 62",
+        "secuencia": "ACAATCGT",
+        "informacion": "Informacion de la secuencia 62"
+    },
+    {
+        "nombre": "Secuencia 63",
+        "secuencia": "TCAGTCAG",
+        "informacion": "Informacion de la secuencia 63"
+    },
+    {
+        "nombre": "Secuencia 64",
+        "secuencia": "CCACTCGT",
+        "informacion": "Informacion de la secuencia 64"
+    },
+    {
+        "nombre": "Secuencia 65",
+        "secuencia": "GGCACACT",
+        "informacion": "Informacion de la secuencia 65"
+    },
+    {
+        "nombre": "Secuencia 66",
+        "secuencia": "CATATTCA",
+        "informacion": "Informacion de la secuencia 66"
+    },
+    {
+        "nombre": "Secuencia 67",
+        "secuencia": "TGAACTAC",
+        "informacion": "Informacion de la secuencia 67"
+    },
+    {
+        "nombre": "Secuencia 68",
+        "secuencia": "ACAGGAAT",
+        "informacion": "Informacion de la secuencia 68"
+    },
+    {
+        "nombre": "Secuencia 69",
+        "secuencia": "TAAAACGG",
+        "informacion": "Informacion de la secuencia 69"
+    },
+    {
+        "nombre": "Secuencia 70",
+        "secuencia": "TGTCCTTT",
+        "informacion": "Informacion de la secuencia 70"
+    },
+    {
+        "nombre": "Secuencia 71",
+        "secuencia": "ACCGGTCT",
+        "informacion": "Informacion de la secuencia 71"
+    },
+    {
+        "nombre": "Secuencia 72",
+        "secuencia": "TCGCAAGG",
+        "informacion": "Informacion de la secuencia 72"
+    },
+    {
+        "nombre": "Secuencia 73",
+        "secuencia": "GGCTCCGC",
+        "informacion": "Informacion de la secuencia 73"
+    },
+    {
+        "nombre": "Secuencia 74",
+        "secuencia": "GGTGTGTG",
+        "informacion": "Informacion de la secuencia 74"
+    },
+    {
+        "nombre": "Secuencia 75",
+        "secuencia": "ACCGGCAC",
+        "informacion": "Informacion de la secuencia 75"
+    },
+    {
+        "nombre": "Secuencia 76",
+        "secuencia": "CTTTCGTT",
+        "informacion": "Informacion de la secuencia 76"
+    },
+    {
+        "nombre": "Secuencia 77",
+        "secuencia": "CTAATCGG",
+        "informacion": "Informacion de la secuencia 77"
+    },
+    {
+        "nombre": "Secuencia 78",
+        "secuencia": "TCTACGAT",
+        "informacion": "Informacion de la secuencia 78"
+    },
+    {
+        "nombre": "Secuencia 79",
+        "secuencia": "GCGGCTGG",
+        "informacion": "Informacion de la secuencia 79"
+    },
+    {
+        "nombre": "Secuencia 80",
+        "secuencia": "TCAAATTT",
+        "informacion": "Informacion de la secuencia 80"
+    },
+    {
+        "nombre": "Secuencia 81",
+        "secuencia": "CTTTTCCC",
+        "informacion": "Informacion de la secuencia 81"
+    },
+    {
+        "nombre": "Secuencia 82",
+        "secuencia": "TTCGGATG",
+        "informacion": "Informacion de la secuencia 82"
+    },
+    {
+        "nombre": "Secuencia 83",
+        "secuencia": "GCCTTTAA",
+        "informacion": "Informacion de la secuencia 83"
+    },
+    {
+        "nombre": "Secuencia 84",
+        "secuencia": "CGATTCAG",
+        "informacion": "Informacion de la secuencia 84"
+    },
+    {
+        "nombre": "Secuencia 85",
+        "secuencia": "CTGCTGTG",
+        "informacion": "Informacion de la secuencia 85"
+    },
+    {
+        "nombre": "Secuencia 86",
+        "secuencia": "GACTAAGA",
+        "informacion": "Informacion de la secuencia 86"
+    },
+    {
+        "nombre": "Secuencia 87",
+        "secuencia": "CATCGTTC",
+        "informacion": "Informacion de la secuencia 87"
+    },
+    {
+        "nombre": "Secuencia 88",
+        "secuencia": "TGCAGAGT",
+        "informacion": "Informacion de la secuencia 88"
+    },
+    {
+        "nombre": "Secuencia 89",
+        "secuencia": "AGACGTAC",
+        "informacion": "Informacion de la secuencia 89"
+    },
+    {
+        "nombre": "Secuencia 90",
+        "secuencia": "CATGTTCT",
+        "informacion": "Informacion de la secuencia 90"
+    },
+    {
+        "nombre": "Secuencia 91",
+        "secuencia": "GCTTTCCT",
+        "informacion": "Informacion de la secuencia 91"
+    },
+    {
+        "nombre": "Secuencia 92",
+        "secuencia": "GTGGTTAT",
+        "informacion": "Informacion de la secuencia 92"
+    },
+    {
+        "nombre": "Secuencia 93",
+        "secuencia": "CTTAATCA",
+        "informacion": "Informacion de la secuencia 93"
+    },
+    {
+        "nombre": "Secuencia 94",
+        "secuencia": "TCCGGGAA",
+        "informacion": "Informacion de la secuencia 94"
+    },
+    {
+        "nombre": "Secuencia 95",
+        "secuencia": "TCGCGGTG",
+        "informacion": "Informacion de la secuencia 95"
+    },
+    {
+        "nombre": "Secuencia 96",
+        "secuencia": "TGGTCTGC",
+        "informacion": "Informacion de la secuencia 96"
+    },
+    {
+        "nombre": "Secuencia 97",
+        "secuencia": "GCCCGCTC",
+        "informacion": "Informacion de la secuencia 97"
+    },
+    {
+        "nombre": "Secuencia 98",
+        "secuencia": "GTAAACTT",
+        "informacion": "Informacion de la secuencia 98"
+    },
+    {
+        "nombre": "Secuencia 99",
+        "secuencia": "ATCGCAGG",
+        "informacion": "Informacion de la secuencia 99"
+    },
+    {
+        "nombre": "Secuencia 100",
+        "secuencia": "AACTCCCA",
+        "informacion": "Informacion de la secuencia 100"
+    },
+    {
+        "nombre": "Secuencia 101",
+        "secuencia": "CGAATCGA",
+        "informacion": "Informacion de la secuencia 101"
+    },
+    {
+        "nombre": "Secuencia 102",
+        "secuencia": "AAGTCTAC",
+        "informacion": "Informacion de la secuencia 102"
+    },
+    {
+        "nombre": "Secuencia 103",
+        "secuencia": "GCGAGAGG",
+        "informacion": "Informacion de la secuencia 103"
+    },
+    {
+        "nombre": "Secuencia 104",
+        "secuencia": "AACGAACT",
+        "informacion": "Informacion de la secuencia 104"
+    },
+    {
+        "nombre": "Secuencia 105",
+        "secuencia": "CTACGTGC",
+        "informacion": "Informacion de la secuencia 105"
+    },
+    {
+        "nombre": "Secuencia 106",
+        "secuencia": "TTGATGAA",
+        "informacion": "Informacion de la secuencia 106"
+    },
+    {
+        "nombre": "Secuencia 107",
+        "secuencia": "GAGCTTCA",
+        "informacion": "Informacion de la secuencia 107"
+    },
+    {
+        "nombre": "Secuencia 108",
+        "secuencia": "ATACGGAT",
+        "informacion": "Informacion de la secuencia 108"
+    },
+    {
+        "nombre": "Secuencia 109",
+        "secuencia": "CGAGGAGT",
+        "informacion": "Informacion de la secuencia 109"
+    },
+    {
+        "nombre": "Secuencia 110",
+        "secuencia": "ACCTTCAC",
+        "informacion": "Informacion de la secuencia 110"
+    },
+    {
+        "nombre": "Secuencia 111",
+        "secuencia": "ATGGAGGC",
+        "informacion": "Informacion de la secuencia 111"
+    },
+    {
+        "nombre": "Secuencia 112",
+        "secuencia": "CAATATCT",
+        "informacion": "Informacion de la secuencia 112"
+    },
+    {
+        "nombre": "Secuencia 113",
+        "secuencia": "GATAGTGG",
+        "informacion": "Informacion de la secuencia 113"
+    },
+    {
+        "nombre": "Secuencia 114",
+        "secuencia": "ACAGGAGA",
+        "informacion": "Informacion de la secuencia 114"
+    },
+    {
+        "nombre": "Secuencia 115",
+        "secuencia": "TAGCCGTG",
+        "informacion": "Informacion de la secuencia 115"
+    },
+    {
+        "nombre": "Secuencia 116",
+        "secuencia": "TCTGCAAC",
+        "informacion": "Informacion de la secuencia 116"
+    },
+    {
+        "nombre": "Secuencia 117",
+        "secuencia": "TTTAAGAT",
+        "informacion": "Informacion de la secuencia 117"
+    },
+    {
+        "nombre": "Secuencia 118",
+        "secuencia": "TAGCGTCA",
+        "informacion": "Informacion de la secuencia 118"
+    },
+    {
+        "nombre": "Secuencia 119",
+        "secuencia": "CGGAGATG",
+        "informacion": "Informacion de la secuencia 119"
+    },
+    {
+        "nombre": "Secuencia 120",
+        "secuencia": "TGCAACCA",
+        "informacion": "Informacion de la secuencia 120"
+    },
+    {
+        "nombre": "Secuencia 121",
+        "secuencia": "ACAGGTGT",
+        "informacion": "Informacion de la secuencia 121"
+    },
+    {
+        "nombre": "Secuencia 122",
+        "secuencia": "AACTATAC",
+        "informacion": "Informacion de la secuencia 122"
+    },
+    {
+        "nombre": "Secuencia 123",
+        "secuencia": "AGATCTAT",
+        "informacion": "Informacion de la secuencia 123"
+    },
+    {
+        "nombre": "Secuencia 124",
+        "secuencia": "TCGTCTGG",
+        "informacion": "Informacion de la secuencia 124"
+    },
+    {
+        "nombre": "Secuencia 125",
+        "secuencia": "AGATCGGG",
+        "informacion": "Informacion de la secuencia 125"
+    },
+    {
+        "nombre": "Secuencia 126",
+        "secuencia": "TCATACAT",
+        "informacion": "Informacion de la secuencia 126"
+    },
+    {
+        "nombre": "Secuencia 127",
+        "secuencia": "TTTACTCG",
+        "informacion": "Informacion de la secuencia 127"
+    },
+    {
+        "nombre": "Secuencia 128",
+        "secuencia": "GCGTTACC",
+        "informacion": "Informacion de la secuencia 128"
+    },
+    {
+        "nombre": "Secuencia 129",
+        "secuencia": "GCACTGTA",
+        "informacion": "Informacion de la secuencia 129"
+    },
+    {
+        "nombre": "Secuencia 130",
+        "secuencia": "ACAGATAA",
+        "informacion": "Informacion de la secuencia 130"
+    },
+    {
+        "nombre": "Secuencia 131",
+        "secuencia": "CCATGGAA",
+        "informacion": "Informacion de la secuencia 131"
+    },
+    {
+        "nombre": "Secuencia 132",
+        "secuencia": "AAGATTGC",
+        "informacion": "Informacion de la secuencia 132"
+    },
+    {
+        "nombre": "Secuencia 133",
+        "secuencia": "CTGAGATT",
+        "informacion": "Informacion de la secuencia 133"
+    },
+    {
+        "nombre": "Secuencia 134",
+        "secuencia": "CTCTGCTT",
+        "informacion": "Informacion de la secuencia 134"
+    },
+    {
+        "nombre": "Secuencia 135",
+        "secuencia": "CGATCCTC",
+        "informacion": "Informacion de la secuencia 135"
+    },
+    {
+        "nombre": "Secuencia 136",
+        "secuencia": "CGCCGCAC",
+        "informacion": "Informacion de la secuencia 136"
+    },
+    {
+        "nombre": "Secuencia 137",
+        "secuencia": "GTACGCAG",
+        "informacion": "Informacion de la secuencia 137"
+    },
+    {
+        "nombre": "Secuencia 138",
+        "secuencia": "CCCGCGGA",
+        "informacion": "Informacion de la secuencia 138"
+    },
+    {
+        "nombre": "Secuencia 139",
+        "secuencia": "AGCCCATT",
+        "informacion": "Informacion de la secuencia 139"
+    },
+    {
+        "nombre": "Secuencia 140",
+        "secuencia": "CTCAGAGA",
+        "informacion": "Informacion de la secuencia 140"
+    },
+    {
+        "nombre": "Secuencia 141",
+        "secuencia": "TTACCCCA",
+        "informacion": "Informacion de la secuencia 141"
+    },
+    {
+        "nombre": "Secuencia 142",
+        "secuencia": "AGACGATT",
+        "informacion": "Informacion de la secuencia 142"
+    },
+    {
+        "nombre": "Secuencia 143",
+        "secuencia": "AGAAAGAT",
+        "informacion": "Informacion de la secuencia 143"
+    },
+    {
+        "nombre": "Secuencia 144",
+        "secuencia": "TAACTGCT",
+        "informacion": "Informacion de la secuencia 144"
+    },
+    {
+        "nombre": "Secuencia 145",
+        "secuencia": "GCCTGGAG",
+        "informacion": "Informacion de la secuencia 145"
+    },
+    {
+        "nombre": "Secuencia 146",
+        "secuencia": "GTCTTGTC",
+        "informacion": "Informacion de la secuencia 146"
+    },
+    {
+        "nombre": "Secuencia 147",
+        "secuencia": "TGACAAAA",
+        "informacion": "Informacion de la secuencia 147"
+    },
+    {
+        "nombre": "Secuencia 148",
+        "secuencia": "CCAAGCCC",
+        "informacion": "Informacion de la secuencia 148"
+    },
+    {
+        "nombre": "Secuencia 149",
+        "secuencia": "GATTCCTC",
+        "informacion": "Informacion de la secuencia 149"
+    },
+    {
+        "nombre": "Secuencia 150",
+        "secuencia": "AAATGGGG",
+        "informacion": "Informacion de la secuencia 150"
+    },
+    {
+        "nombre": "Secuencia 151",
+        "secuencia": "TGCAGAGA",
+        "informacion": "Informacion de la secuencia 151"
+    },
+    {
+        "nombre": "Secuencia 152",
+        "secuencia": "TGATAGGT",
+        "informacion": "Informacion de la secuencia 152"
+    },
+    {
+        "nombre": "Secuencia 153",
+        "secuencia": "AGATTAAT",
+        "informacion": "Informacion de la secuencia 153"
+    },
+    {
+        "nombre": "Secuencia 154",
+        "secuencia": "ATAACTAA",
+        "informacion": "Informacion de la secuencia 154"
+    },
+    {
+        "nombre": "Secuencia 155",
+        "secuencia": "ATGGCCCT",
+        "informacion": "Informacion de la secuencia 155"
+    },
+    {
+        "nombre": "Secuencia 156",
+        "secuencia": "AGACGATA",
+        "informacion": "Informacion de la secuencia 156"
+    },
+    {
+        "nombre": "Secuencia 157",
+        "secuencia": "GGTCTAAG",
+        "informacion": "Informacion de la secuencia 157"
+    },
+    {
+        "nombre": "Secuencia 158",
+        "secuencia": "GACTACTT",
+        "informacion": "Informacion de la secuencia 158"
+    },
+    {
+        "nombre": "Secuencia 159",
+        "secuencia": "GGCCGTAG",
+        "informacion": "Informacion de la secuencia 159"
+    },
+    {
+        "nombre": "Secuencia 160",
+        "secuencia": "AGGCGATG",
+        "informacion": "Informacion de la secuencia 160"
+    },
+    {
+        "nombre": "Secuencia 161",
+        "secuencia": "GCCTCGGA",
+        "informacion": "Informacion de la secuencia 161"
+    },
+    {
+        "nombre": "Secuencia 162",
+        "secuencia": "CCGGAAAT",
+        "informacion": "Informacion de la secuencia 162"
+    },
+    {
+        "nombre": "Secuencia 163",
+        "secuencia": "TGAGTGTA",
+        "informacion": "Informacion de la secuencia 163"
+    },
+    {
+        "nombre": "Secuencia 164",
+        "secuencia": "AGCGATAT",
+        "informacion": "Informacion de la secuencia 164"
+    },
+    {
+        "nombre": "Secuencia 165",
+        "secuencia": "TAAACGAA",
+        "informacion": "Informacion de la secuencia 165"
+    },
+    {
+        "nombre": "Secuencia 166",
+        "secuencia": "TAAATCAG",
+        "informacion": "Informacion de la secuencia 166"
+    },
+    {
+        "nombre": "Secuencia 167",
+        "secuencia": "GGGATCGA",
+        "informacion": "Informacion de la secuencia 167"
+    },
+    {
+        "nombre": "Secuencia 168",
+        "secuencia": "CGGGACAC",
+        "informacion": "Informacion de la secuencia 168"
+    },
+    {
+        "nombre": "Secuencia 169",
+        "secuencia": "ATATAATA",
+        "informacion": "Informacion de la secuencia 169"
+    },
+    {
+        "nombre": "Secuencia 170",
+        "secuencia": "AAACGAAC",
+        "informacion": "Informacion de la secuencia 170"
+    },
+    {
+        "nombre": "Secuencia 171",
+        "secuencia": "CACTATTG",
+        "informacion": "Informacion de la secuencia 171"
+    },
+    {
+        "nombre": "Secuencia 172",
+        "secuencia": "AGAATTAT",
+        "informacion": "Informacion de la secuencia 172"
+    },
+    {
+        "nombre": "Secuencia 173",
+        "secuencia": "ATCTAGCT",
+        "informacion": "Informacion de la secuencia 173"
+    },
+    {
+        "nombre": "Secuencia 174",
+        "secuencia": "GTGACCCG",
+        "informacion": "Informacion de la secuencia 174"
+    },
+    {
+        "nombre": "Secuencia 175",
+        "secuencia": "AAAACCCT",
+        "informacion": "Informacion de la secuencia 175"
+    },
+    {
+        "nombre": "Secuencia 176",
+        "secuencia": "CTGGGGTT",
+        "informacion": "Informacion de la secuencia 176"
+    },
+    {
+        "nombre": "Secuencia 177",
+        "secuencia": "CCTAGGCT",
+        "informacion": "Informacion de la secuencia 177"
+    },
+    {
+        "nombre": "Secuencia 178",
+        "secuencia": "TGCGTAGT",
+        "informacion": "Informacion de la secuencia 178"
+    },
+    {
+        "nombre": "Secuencia 179",
+        "secuencia": "AGTTGCCA",
+        "informacion": "Informacion de la secuencia 179"
+    },
+    {
+        "nombre": "Secuencia 180",
+        "secuencia": "AGAACTGT",
+        "informacion": "Informacion de la secuencia 180"
+    },
+    {
+        "nombre": "Secuencia 181",
+        "secuencia": "GGTGGTGG",
+        "informacion": "Informacion de la secuencia 181"
+    },
+    {
+        "nombre": "Secuencia 182",
+        "secuencia": "CCTACGTC",
+        "informacion": "Informacion de la secuencia 182"
+    },
+    {
+        "nombre": "Secuencia 183",
+        "secuencia": "ACACAAGT",
+        "informacion": "Informacion de la secuencia 183"
+    },
+    {
+        "nombre": "Secuencia 184",
+        "secuencia": "CGGTTGCG",
+        "informacion": "Informacion de la secuencia 184"
+    },
+    {
+        "nombre": "Secuencia 185",
+        "secuencia": "TCGGTGCC",
+        "informacion": "Informacion de la secuencia 185"
+    },
+    {
+        "nombre": "Secuencia 186",
+        "secuencia": "GCGCTCGG",
+        "informacion": "Informacion de la secuencia 186"
+    },
+    {
+        "nombre": "Secuencia 187",
+        "secuencia": "AACGCCTA",
+        "informacion": "Informacion de la secuencia 187"
+    },
+    {
+        "nombre": "Secuencia 188",
+        "secuencia": "CATACTTG",
+        "informacion": "Informacion de la secuencia 188"
+    },
+    {
+        "nombre": "Secuencia 189",
+        "secuencia": "GCTTATGA",
+        "informacion": "Informacion de la secuencia 189"
+    },
+    {
+        "nombre": "Secuencia 190",
+        "secuencia": "CGCAGCTC",
+        "informacion": "Informacion de la secuencia 190"
+    },
+    {
+        "nombre": "Secuencia 191",
+        "secuencia": "CATCGCGC",
+        "informacion": "Informacion de la secuencia 191"
+    },
+    {
+        "nombre": "Secuencia 192",
+        "secuencia": "GCGGGGAT",
+        "informacion": "Informacion de la secuencia 192"
+    },
+    {
+        "nombre": "Secuencia 193",
+        "secuencia": "ACGCTTAC",
+        "informacion": "Informacion de la secuencia 193"
+    },
+    {
+        "nombre": "Secuencia 194",
+        "secuencia": "CGTGATGT",
+        "informacion": "Informacion de la secuencia 194"
+    },
+    {
+        "nombre": "Secuencia 195",
+        "secuencia": "TTTCTGCA",
+        "informacion": "Informacion de la secuencia 195"
+    },
+    {
+        "nombre": "Secuencia 196",
+        "secuencia": "ACGTGGAG",
+        "informacion": "Informacion de la secuencia 196"
+    },
+    {
+        "nombre": "Secuencia 197",
+        "secuencia": "GCAATCAG",
+        "informacion": "Informacion de la secuencia 197"
+    },
+    {
+        "nombre": "Secuencia 198",
+        "secuencia": "GGTTCGTA",
+        "informacion": "Informacion de la secuencia 198"
+    },
+    {
+        "nombre": "Secuencia 199",
+        "secuencia": "TACGAGCT",
+        "informacion": "Informacion de la secuencia 199"
+    },
+    {
+        "nombre": "Secuencia 200",
+        "secuencia": "ACATGTCC",
+        "informacion": "Informacion de la secuencia 200"
+    },
+    {
+        "nombre": "Secuencia 201",
+        "secuencia": "CTCTGCCG",
+        "informacion": "Informacion de la secuencia 201"
+    },
+    {
+        "nombre": "Secuencia 202",
+        "secuencia": "CTAGGCGA",
+        "informacion": "Informacion de la secuencia 202"
+    },
+    {
+        "nombre": "Secuencia 203",
+        "secuencia": "GGCAACAA",
+        "informacion": "Informacion de la secuencia 203"
+    },
+    {
+        "nombre": "Secuencia 204",
+        "secuencia": "CTAATTCC",
+        "informacion": "Informacion de la secuencia 204"
+    },
+    {
+        "nombre": "Secuencia 205",
+        "secuencia": "GCACAAGC",
+        "informacion": "Informacion de la secuencia 205"
+    },
+    {
+        "nombre": "Secuencia 206",
+        "secuencia": "AAAAACAG",
+        "informacion": "Informacion de la secuencia 206"
+    },
+    {
+        "nombre": "Secuencia 207",
+        "secuencia": "ATGTACCT",
+        "informacion": "Informacion de la secuencia 207"
+    },
+    {
+        "nombre": "Secuencia 208",
+        "secuencia": "AAGAACTC",
+        "informacion": "Informacion de la secuencia 208"
+    },
+    {
+        "nombre": "Secuencia 209",
+        "secuencia": "AACTTCTG",
+        "informacion": "Informacion de la secuencia 209"
+    },
+    {
+        "nombre": "Secuencia 210",
+        "secuencia": "TTCACCCC",
+        "informacion": "Informacion de la secuencia 210"
+    },
+    {
+        "nombre": "Secuencia 211",
+        "secuencia": "ATAGGCAG",
+        "informacion": "Informacion de la secuencia 211"
+    },
+    {
+        "nombre": "Secuencia 212",
+        "secuencia": "AATTAAAT",
+        "informacion": "Informacion de la secuencia 212"
+    },
+    {
+        "nombre": "Secuencia 213",
+        "secuencia": "CAGCTAAT",
+        "informacion": "Informacion de la secuencia 213"
+    },
+    {
+        "nombre": "Secuencia 214",
+        "secuencia": "GTCGATGG",
+        "informacion": "Informacion de la secuencia 214"
+    },
+    {
+        "nombre": "Secuencia 215",
+        "secuencia": "TCCAATGA",
+        "informacion": "Informacion de la secuencia 215"
+    },
+    {
+        "nombre": "Secuencia 216",
+        "secuencia": "TATGCAGA",
+        "informacion": "Informacion de la secuencia 216"
+    },
+    {
+        "nombre": "Secuencia 217",
+        "secuencia": "GTGTCCCG",
+        "informacion": "Informacion de la secuencia 217"
+    },
+    {
+        "nombre": "Secuencia 218",
+        "secuencia": "CTTTATGC",
+        "informacion": "Informacion de la secuencia 218"
+    },
+    {
+        "nombre": "Secuencia 219",
+        "secuencia": "ATAAGAGG",
+        "informacion": "Informacion de la secuencia 219"
+    },
+    {
+        "nombre": "Secuencia 220",
+        "secuencia": "TGCGCAAA",
+        "informacion": "Informacion de la secuencia 220"
+    },
+    {
+        "nombre": "Secuencia 221",
+        "secuencia": "TTCATTCA",
+        "informacion": "Informacion de la secuencia 221"
+    },
+    {
+        "nombre": "Secuencia 222",
+        "secuencia": "TATCGCAA",
+        "informacion": "Informacion de la secuencia 222"
+    },
+    {
+        "nombre": "Secuencia 223",
+        "secuencia": "TCGCTTGG",
+        "informacion": "Informacion de la secuencia 223"
+    },
+    {
+        "nombre": "Secuencia 224",
+        "secuencia": "GCCAATTT",
+        "informacion": "Informacion de la secuencia 224"
+    },
+    {
+        "nombre": "Secuencia 225",
+        "secuencia": "CCCCATAG",
+        "informacion": "Informacion de la secuencia 225"
+    },
+    {
+        "nombre": "Secuencia 226",
+        "secuencia": "TTTAGAAG",
+        "informacion": "Informacion de la secuencia 226"
+    },
+    {
+        "nombre": "Secuencia 227",
+        "secuencia": "CCTGGGAT",
+        "informacion": "Informacion de la secuencia 227"
+    },
+    {
+        "nombre": "Secuencia 228",
+        "secuencia": "TACCCCCC",
+        "informacion": "Informacion de la secuencia 228"
+    },
+    {
+        "nombre": "Secuencia 229",
+        "secuencia": "ATAAAATC",
+        "informacion": "Informacion de la secuencia 229"
+    },
+    {
+        "nombre": "Secuencia 230",
+        "secuencia": "AACAGTGA",
+        "informacion": "Informacion de la secuencia 230"
+    },
+    {
+        "nombre": "Secuencia 231",
+        "secuencia": "CGGACCAG",
+        "informacion": "Informacion de la secuencia 231"
+    },
+    {
+        "nombre": "Secuencia 232",
+        "secuencia": "CTGGAAGT",
+        "informacion": "Informacion de la secuencia 232"
+    },
+    {
+        "nombre": "Secuencia 233",
+        "secuencia": "GTCCGATT",
+        "informacion": "Informacion de la secuencia 233"
+    },
+    {
+        "nombre": "Secuencia 234",
+        "secuencia": "ACACCAAC",
+        "informacion": "Informacion de la secuencia 234"
+    },
+    {
+        "nombre": "Secuencia 235",
+        "secuencia": "ACGTATCG",
+        "informacion": "Informacion de la secuencia 235"
+    },
+    {
+        "nombre": "Secuencia 236",
+        "secuencia": "CGCCTTCT",
+        "informacion": "Informacion de la secuencia 236"
+    },
+    {
+        "nombre": "Secuencia 237",
+        "secuencia": "GTCAACAG",
+        "informacion": "Informacion de la secuencia 237"
+    },
+    {
+        "nombre": "Secuencia 238",
+        "secuencia": "GTGGGGTT",
+        "informacion": "Informacion de la secuencia 238"
+    },
+    {
+        "nombre": "Secuencia 239",
+        "secuencia": "CAGATTCG",
+        "informacion": "Informacion de la secuencia 239"
+    },
+    {
+        "nombre": "Secuencia 240",
+        "secuencia": "CGTGCATG",
+        "informacion": "Informacion de la secuencia 240"
+    },
+    {
+        "nombre": "Secuencia 241",
+        "secuencia": "GATTCGTC",
+        "informacion": "Informacion de la secuencia 241"
+    },
+    {
+        "nombre": "Secuencia 242",
+        "secuencia": "AGGTATGA",
+        "informacion": "Informacion de la secuencia 242"
+    },
+    {
+        "nombre": "Secuencia 243",
+        "secuencia": "ATTACGGG",
+        "informacion": "Informacion de la secuencia 243"
+    },
+    {
+        "nombre": "Secuencia 244",
+        "secuencia": "TCAAGGTA",
+        "informacion": "Informacion de la secuencia 244"
+    },
+    {
+        "nombre": "Secuencia 245",
+        "secuencia": "TAAGGCTC",
+        "informacion": "Informacion de la secuencia 245"
+    },
+    {
+        "nombre": "Secuencia 246",
+        "secuencia": "CACGCGTA",
+        "informacion": "Informacion de la secuencia 246"
+    },
+    {
+        "nombre": "Secuencia 247",
+        "secuencia": "AGGGGGCC",
+        "informacion": "Informacion de la secuencia 247"
+    },
+    {
+        "nombre": "Secuencia 248",
+        "secuencia": "GCAGCGTA",
+        "informacion": "Informacion de la secuencia 248"
+    },
+    {
+        "nombre": "Secuencia 249",
+        "secuencia": "TATCAGTC",
+        "informacion": "Informacion de la secuencia 249"
+    },
+    {
+        "nombre": "Secuencia 250",
+        "secuencia": "CTATTTAA",
+        "informacion": "Informacion de la secuencia 250"
+    },
+    {
+        "nombre": "Secuencia 251",
+        "secuencia": "CTCCGTCT",
+        "informacion": "Informacion de la secuencia 251"
+    },
+    {
+        "nombre": "Secuencia 252",
+        "secuencia": "CTAATTAT",
+        "informacion": "Informacion de la secuencia 252"
+    },
+    {
+        "nombre": "Secuencia 253",
+        "secuencia": "AATTTTTA",
+        "informacion": "Informacion de la secuencia 253"
+    },
+    {
+        "nombre": "Secuencia 254",
+        "secuencia": "CCGGAACT",
+        "informacion": "Informacion de la secuencia 254"
+    },
+    {
+        "nombre": "Secuencia 255",
+        "secuencia": "GTCGGAAT",
+        "informacion": "Informacion de la secuencia 255"
+    },
+    {
+        "nombre": "Secuencia 256",
+        "secuencia": "TCTTTACA",
+        "informacion": "Informacion de la secuencia 256"
+    },
+    {
+        "nombre": "Secuencia 257",
+        "secuencia": "CTTACAGG",
+        "informacion": "Informacion de la secuencia 257"
+    },
+    {
+        "nombre": "Secuencia 258",
+        "secuencia": "TGGTTATA",
+        "informacion": "Informacion de la secuencia 258"
+    },
+    {
+        "nombre": "Secuencia 259",
+        "secuencia": "CCTCGTAA",
+        "informacion": "Informacion de la secuencia 259"
+    },
+    {
+        "nombre": "Secuencia 260",
+        "secuencia": "GAATAAGG",
+        "informacion": "Informacion de la secuencia 260"
+    },
+    {
+        "nombre": "Secuencia 261",
+        "secuencia": "GCGCAATA",
+        "informacion": "Informacion de la secuencia 261"
+    },
+    {
+        "nombre": "Secuencia 262",
+        "secuencia": "CCCCGCGG",
+        "informacion": "Informacion de la secuencia 262"
+    },
+    {
+        "nombre": "Secuencia 263",
+        "secuencia": "ACAAATCC",
+        "informacion": "Informacion de la secuencia 263"
+    },
+    {
+        "nombre": "Secuencia 264",
+        "secuencia": "CGACGTGC",
+        "informacion": "Informacion de la secuencia 264"
+    },
+    {
+        "nombre": "Secuencia 265",
+        "secuencia": "ATTATCTT",
+        "informacion": "Informacion de la secuencia 265"
+    },
+    {
+        "nombre": "Secuencia 266",
+        "secuencia": "GATCCACC",
+        "informacion": "Informacion de la secuencia 266"
+    },
+    {
+        "nombre": "Secuencia 267",
+        "secuencia": "AAGTGCGA",
+        "informacion": "Informacion de la secuencia 267"
+    },
+    {
+        "nombre": "Secuencia 268",
+        "secuencia": "CTAAGTAC",
+        "informacion": "Informacion de la secuencia 268"
+    },
+    {
+        "nombre": "Secuencia 269",
+        "secuencia": "ATAAACTT",
+        "informacion": "Informacion de la secuencia 269"
+    },
+    {
+        "nombre": "Secuencia 270",
+        "secuencia": "GCGTGGCG",
+        "informacion": "Informacion de la secuencia 270"
+    },
+    {
+        "nombre": "Secuencia 271",
+        "secuencia": "TTAGGAGT",
+        "informacion": "Informacion de la secuencia 271"
+    },
+    {
+        "nombre": "Secuencia 272",
+        "secuencia": "CCATTCCA",
+        "informacion": "Informacion de la secuencia 272"
+    },
+    {
+        "nombre": "Secuencia 273",
+        "secuencia": "GGGACCCA",
+        "informacion": "Informacion de la secuencia 273"
+    },
+    {
+        "nombre": "Secuencia 274",
+        "secuencia": "GGAAATAA",
+        "informacion": "Informacion de la secuencia 274"
+    },
+    {
+        "nombre": "Secuencia 275",
+        "secuencia": "TGACTCGA",
+        "informacion": "Informacion de la secuencia 275"
+    },
+    {
+        "nombre": "Secuencia 276",
+        "secuencia": "GTTTTGAC",
+        "informacion": "Informacion de la secuencia 276"
+    },
+    {
+        "nombre": "Secuencia 277",
+        "secuencia": "CACCAGAG",
+        "informacion": "Informacion de la secuencia 277"
+    },
+    {
+        "nombre": "Secuencia 278",
+        "secuencia": "GGGTGGTC",
+        "informacion": "Informacion de la secuencia 278"
+    },
+    {
+        "nombre": "Secuencia 279",
+        "secuencia": "TCGTCTAA",
+        "informacion": "Informacion de la secuencia 279"
+    },
+    {
+        "nombre": "Secuencia 280",
+        "secuencia": "GAGGTAGA",
+        "informacion": "Informacion de la secuencia 280"
+    },
+    {
+        "nombre": "Secuencia 281",
+        "secuencia": "GGGATTCA",
+        "informacion": "Informacion de la secuencia 281"
+    },
+    {
+        "nombre": "Secuencia 282",
+        "secuencia": "GGTCTCAT",
+        "informacion": "Informacion de la secuencia 282"
+    },
+    {
+        "nombre": "Secuencia 283",
+        "secuencia": "TGCTAGGT",
+        "informacion": "Informacion de la secuencia 283"
+    },
+    {
+        "nombre": "Secuencia 284",
+        "secuencia": "GGAGCAGT",
+        "informacion": "Informacion de la secuencia 284"
+    },
+    {
+        "nombre": "Secuencia 285",
+        "secuencia": "GTTACGCA",
+        "informacion": "Informacion de la secuencia 285"
+    },
+    {
+        "nombre": "Secuencia 286",
+        "secuencia": "ACATTTGG",
+        "informacion": "Informacion de la secuencia 286"
+    },
+    {
+        "nombre": "Secuencia 287",
+        "secuencia": "CTCGTTGA",
+        "informacion": "Informacion de la secuencia 287"
+    },
+    {
+        "nombre": "Secuencia 288",
+        "secuencia": "GTTGGACA",
+        "informacion": "Informacion de la secuencia 288"
+    },
+    {
+        "nombre": "Secuencia 289",
+        "secuencia": "TAATGCCG",
+        "informacion": "Informacion de la secuencia 289"
+    },
+    {
+        "nombre": "Secuencia 290",
+        "secuencia": "CCTGGGGA",
+        "informacion": "Informacion de la secuencia 290"
+    },
+    {
+        "nombre": "Secuencia 291",
+        "secuencia": "ACCCGTCA",
+        "informacion": "Informacion de la secuencia 291"
+    },
+    {
+        "nombre": "Secuencia 292",
+        "secuencia": "ACAACACC",
+        "informacion": "Informacion de la secuencia 292"
+    },
+    {
+        "nombre": "Secuencia 293",
+        "secuencia": "ACGGCCAG",
+        "informacion": "Informacion de la secuencia 293"
+    },
+    {
+        "nombre": "Secuencia 294",
+        "secuencia": "ATTGTATC",
+        "informacion": "Informacion de la secuencia 294"
+    },
+    {
+        "nombre": "Secuencia 295",
+        "secuencia": "GGTGTAGA",
+        "informacion": "Informacion de la secuencia 295"
+    },
+    {
+        "nombre": "Secuencia 296",
+        "secuencia": "ACAGTCGC",
+        "informacion": "Informacion de la secuencia 296"
+    },
+    {
+        "nombre": "Secuencia 297",
+        "secuencia": "CGATGTGG",
+        "informacion": "Informacion de la secuencia 297"
+    },
+    {
+        "nombre": "Secuencia 298",
+        "secuencia": "CCGACTTA",
+        "informacion": "Informacion de la secuencia 298"
+    },
+    {
+        "nombre": "Secuencia 299",
+        "secuencia": "ATTGTCCG",
+        "informacion": "Informacion de la secuencia 299"
+    },
+    {
+        "nombre": "Secuencia 300",
+        "secuencia": "CCGGAACC",
+        "informacion": "Informacion de la secuencia 300"
+    },
+    {
+        "nombre": "Secuencia 301",
+        "secuencia": "GCGTAAAG",
+        "informacion": "Informacion de la secuencia 301"
+    },
+    {
+        "nombre": "Secuencia 302",
+        "secuencia": "ACCGCGGC",
+        "informacion": "Informacion de la secuencia 302"
+    },
+    {
+        "nombre": "Secuencia 303",
+        "secuencia": "GAAGGAGC",
+        "informacion": "Informacion de la secuencia 303"
+    },
+    {
+        "nombre": "Secuencia 304",
+        "secuencia": "GTGGCCGT",
+        "informacion": "Informacion de la secuencia 304"
+    },
+    {
+        "nombre": "Secuencia 305",
+        "secuencia": "TTGTTCTT",
+        "informacion": "Informacion de la secuencia 305"
+    },
+    {
+        "nombre": "Secuencia 306",
+        "secuencia": "CCCAATTA",
+        "informacion": "Informacion de la secuencia 306"
+    },
+    {
+        "nombre": "Secuencia 307",
+        "secuencia": "GATGCCAG",
+        "informacion": "Informacion de la secuencia 307"
+    },
+    {
+        "nombre": "Secuencia 308",
+        "secuencia": "GTGGTAGG",
+        "informacion": "Informacion de la secuencia 308"
+    },
+    {
+        "nombre": "Secuencia 309",
+        "secuencia": "AAGGAATG",
+        "informacion": "Informacion de la secuencia 309"
+    },
+    {
+        "nombre": "Secuencia 310",
+        "secuencia": "CTGTATTG",
+        "informacion": "Informacion de la secuencia 310"
+    },
+    {
+        "nombre": "Secuencia 311",
+        "secuencia": "AATTACTG",
+        "informacion": "Informacion de la secuencia 311"
+    },
+    {
+        "nombre": "Secuencia 312",
+        "secuencia": "GGCATTTC",
+        "informacion": "Informacion de la secuencia 312"
+    },
+    {
+        "nombre": "Secuencia 313",
+        "secuencia": "TAGCTTGA",
+        "informacion": "Informacion de la secuencia 313"
+    },
+    {
+        "nombre": "Secuencia 314",
+        "secuencia": "GCACCGGA",
+        "informacion": "Informacion de la secuencia 314"
+    },
+    {
+        "nombre": "Secuencia 315",
+        "secuencia": "CACAACCT",
+        "informacion": "Informacion de la secuencia 315"
+    },
+    {
+        "nombre": "Secuencia 316",
+        "secuencia": "ATGCCAAT",
+        "informacion": "Informacion de la secuencia 316"
+    },
+    {
+        "nombre": "Secuencia 317",
+        "secuencia": "ACTGTCAC",
+        "informacion": "Informacion de la secuencia 317"
+    },
+    {
+        "nombre": "Secuencia 318",
+        "secuencia": "CACCCGCT",
+        "informacion": "Informacion de la secuencia 318"
+    },
+    {
+        "nombre": "Secuencia 319",
+        "secuencia": "GATCCCTG",
+        "informacion": "Informacion de la secuencia 319"
+    },
+    {
+        "nombre": "Secuencia 320",
+        "secuencia": "CTACTGGA",
+        "informacion": "Informacion de la secuencia 320"
+    },
+    {
+        "nombre": "Secuencia 321",
+        "secuencia": "CCTTCATT",
+        "informacion": "Informacion de la secuencia 321"
+    },
+    {
+        "nombre": "Secuencia 322",
+        "secuencia": "CGGTTATT",
+        "informacion": "Informacion de la secuencia 322"
+    },
+    {
+        "nombre": "Secuencia 323",
+        "secuencia": "GTGTGACA",
+        "informacion": "Informacion de la secuencia 323"
+    },
+    {
+        "nombre": "Secuencia 324",
+        "secuencia": "CCTTCGTG",
+        "informacion": "Informacion de la secuencia 324"
+    },
+    {
+        "nombre": "Secuencia 325",
+        "secuencia": "AGGCAGCA",
+        "informacion": "Informacion de la secuencia 325"
+    },
+    {
+        "nombre": "Secuencia 326",
+        "secuencia": "TGTGGCTA",
+        "informacion": "Informacion de la secuencia 326"
+    },
+    {
+        "nombre": "Secuencia 327",
+        "secuencia": "CTCTCCGA",
+        "informacion": "Informacion de la secuencia 327"
+    },
+    {
+        "nombre": "Secuencia 328",
+        "secuencia": "CCTCTGCA",
+        "informacion": "Informacion de la secuencia 328"
+    },
+    {
+        "nombre": "Secuencia 329",
+        "secuencia": "GACATGCA",
+        "informacion": "Informacion de la secuencia 329"
+    },
+    {
+        "nombre": "Secuencia 330",
+        "secuencia": "ACCTACGG",
+        "informacion": "Informacion de la secuencia 330"
+    },
+    {
+        "nombre": "Secuencia 331",
+        "secuencia": "TTAGACTT",
+        "informacion": "Informacion de la secuencia 331"
+    },
+    {
+        "nombre": "Secuencia 332",
+        "secuencia": "CCCTGCTA",
+        "informacion": "Informacion de la secuencia 332"
+    },
+    {
+        "nombre": "Secuencia 333",
+        "secuencia": "GTCCAAGT",
+        "informacion": "Informacion de la secuencia 333"
+    },
+    {
+        "nombre": "Secuencia 334",
+        "secuencia": "ATATATGG",
+        "informacion": "Informacion de la secuencia 334"
+    },
+    {
+        "nombre": "Secuencia 335",
+        "secuencia": "GCCTTGTT",
+        "informacion": "Informacion de la secuencia 335"
+    },
+    {
+        "nombre": "Secuencia 336",
+        "secuencia": "ACAACTCA",
+        "informacion": "Informacion de la secuencia 336"
+    },
+    {
+        "nombre": "Secuencia 337",
+        "secuencia": "CACCGGAC",
+        "informacion": "Informacion de la secuencia 337"
+    },
+    {
+        "nombre": "Secuencia 338",
+        "secuencia": "ACGCTCTG",
+        "informacion": "Informacion de la secuencia 338"
+    },
+    {
+        "nombre": "Secuencia 339",
+        "secuencia": "GCCCGCGA",
+        "informacion": "Informacion de la secuencia 339"
+    },
+    {
+        "nombre": "Secuencia 340",
+        "secuencia": "ATCGAGGC",
+        "informacion": "Informacion de la secuencia 340"
+    },
+    {
+        "nombre": "Secuencia 341",
+        "secuencia": "CCGGACAT",
+        "informacion": "Informacion de la secuencia 341"
+    },
+    {
+        "nombre": "Secuencia 342",
+        "secuencia": "TTTATCTC",
+        "informacion": "Informacion de la secuencia 342"
+    },
+    {
+        "nombre": "Secuencia 343",
+        "secuencia": "TGCGTACT",
+        "informacion": "Informacion de la secuencia 343"
+    },
+    {
+        "nombre": "Secuencia 344",
+        "secuencia": "TGCGCTCG",
+        "informacion": "Informacion de la secuencia 344"
+    },
+    {
+        "nombre": "Secuencia 345",
+        "secuencia": "TCTTTCAC",
+        "informacion": "Informacion de la secuencia 345"
+    },
+    {
+        "nombre": "Secuencia 346",
+        "secuencia": "GTTCAAAG",
+        "informacion": "Informacion de la secuencia 346"
+    },
+    {
+        "nombre": "Secuencia 347",
+        "secuencia": "CTCGGCAT",
+        "informacion": "Informacion de la secuencia 347"
+    },
+    {
+        "nombre": "Secuencia 348",
+        "secuencia": "CTTTCCGT",
+        "informacion": "Informacion de la secuencia 348"
+    },
+    {
+        "nombre": "Secuencia 349",
+        "secuencia": "CAAATTTC",
+        "informacion": "Informacion de la secuencia 349"
+    },
+    {
+        "nombre": "Secuencia 350",
+        "secuencia": "AGCCTTGT",
+        "informacion": "Informacion de la secuencia 350"
+    },
+    {
+        "nombre": "Secuencia 351",
+        "secuencia": "TCTTCGAG",
+        "informacion": "Informacion de la secuencia 351"
+    },
+    {
+        "nombre": "Secuencia 352",
+        "secuencia": "ACAGTCCG",
+        "informacion": "Informacion de la secuencia 352"
+    },
+    {
+        "nombre": "Secuencia 353",
+        "secuencia": "AGAGCCCA",
+        "informacion": "Informacion de la secuencia 353"
+    },
+    {
+        "nombre": "Secuencia 354",
+        "secuencia": "TACATGCT",
+        "informacion": "Informacion de la secuencia 354"
+    },
+    {
+        "nombre": "Secuencia 355",
+        "secuencia": "ACCAAGCT",
+        "informacion": "Informacion de la secuencia 355"
+    },
+    {
+        "nombre": "Secuencia 356",
+        "secuencia": "CAGTCCGG",
+        "informacion": "Informacion de la secuencia 356"
+    },
+    {
+        "nombre": "Secuencia 357",
+        "secuencia": "TAGTAATA",
+        "informacion": "Informacion de la secuencia 357"
+    },
+    {
+        "nombre": "Secuencia 358",
+        "secuencia": "TCACTTAC",
+        "informacion": "Informacion de la secuencia 358"
+    },
+    {
+        "nombre": "Secuencia 359",
+        "secuencia": "CCATGCTT",
+        "informacion": "Informacion de la secuencia 359"
+    },
+    {
+        "nombre": "Secuencia 360",
+        "secuencia": "GTGCGGAA",
+        "informacion": "Informacion de la secuencia 360"
+    },
+    {
+        "nombre": "Secuencia 361",
+        "secuencia": "AAATTACT",
+        "informacion": "Informacion de la secuencia 361"
+    },
+    {
+        "nombre": "Secuencia 362",
+        "secuencia": "CATGCGGC",
+        "informacion": "Informacion de la secuencia 362"
+    },
+    {
+        "nombre": "Secuencia 363",
+        "secuencia": "GCGGCCTA",
+        "informacion": "Informacion de la secuencia 363"
+    },
+    {
+        "nombre": "Secuencia 364",
+        "secuencia": "AGTAACTA",
+        "informacion": "Informacion de la secuencia 364"
+    },
+    {
+        "nombre": "Secuencia 365",
+        "secuencia": "GAAAACCA",
+        "informacion": "Informacion de la secuencia 365"
+    },
+    {
+        "nombre": "Secuencia 366",
+        "secuencia": "TCCAACCC",
+        "informacion": "Informacion de la secuencia 366"
+    },
+    {
+        "nombre": "Secuencia 367",
+        "secuencia": "GCTCTCGA",
+        "informacion": "Informacion de la secuencia 367"
+    },
+    {
+        "nombre": "Secuencia 368",
+        "secuencia": "AATGCATT",
+        "informacion": "Informacion de la secuencia 368"
+    },
+    {
+        "nombre": "Secuencia 369",
+        "secuencia": "TCCTCAGG",
+        "informacion": "Informacion de la secuencia 369"
+    },
+    {
+        "nombre": "Secuencia 370",
+        "secuencia": "CTATTCGT",
+        "informacion": "Informacion de la secuencia 370"
+    },
+    {
+        "nombre": "Secuencia 371",
+        "secuencia": "CTTTGTTT",
+        "informacion": "Informacion de la secuencia 371"
+    },
+    {
+        "nombre": "Secuencia 372",
+        "secuencia": "TGTATTAT",
+        "informacion": "Informacion de la secuencia 372"
+    },
+    {
+        "nombre": "Secuencia 373",
+        "secuencia": "CAATTAAC",
+        "informacion": "Informacion de la secuencia 373"
+    },
+    {
+        "nombre": "Secuencia 374",
+        "secuencia": "TCGACGAA",
+        "informacion": "Informacion de la secuencia 374"
+    },
+    {
+        "nombre": "Secuencia 375",
+        "secuencia": "CGGCATCT",
+        "informacion": "Informacion de la secuencia 375"
+    },
+    {
+        "nombre": "Secuencia 376",
+        "secuencia": "CCTATCAA",
+        "informacion": "Informacion de la secuencia 376"
+    },
+    {
+        "nombre": "Secuencia 377",
+        "secuencia": "TCCCGCTA",
+        "informacion": "Informacion de la secuencia 377"
+    },
+    {
+        "nombre": "Secuencia 378",
+        "secuencia": "AGCATGAT",
+        "informacion": "Informacion de la secuencia 378"
+    },
+    {
+        "nombre": "Secuencia 379",
+        "secuencia": "AAGTGCAC",
+        "informacion": "Informacion de la secuencia 379"
+    },
+    {
+        "nombre": "Secuencia 380",
+        "secuencia": "GGTCGTCA",
+        "informacion": "Informacion de la secuencia 380"
+    },
+    {
+        "nombre": "Secuencia 381",
+        "secuencia": "ACCGCCGT",
+        "informacion": "Informacion de la secuencia 381"
+    },
+    {
+        "nombre": "Secuencia 382",
+        "secuencia": "AGCGGGCC",
+        "informacion": "Informacion de la secuencia 382"
+    },
+    {
+        "nombre": "Secuencia 383",
+        "secuencia": "GTCCGCAA",
+        "informacion": "Informacion de la secuencia 383"
+    },
+    {
+        "nombre": "Secuencia 384",
+        "secuencia": "CCGGGATC",
+        "informacion": "Informacion de la secuencia 384"
+    },
+    {
+        "nombre": "Secuencia 385",
+        "secuencia": "CATAATGC",
+        "informacion": "Informacion de la secuencia 385"
+    },
+    {
+        "nombre": "Secuencia 386",
+        "secuencia": "ATCCCTAC",
+        "informacion": "Informacion de la secuencia 386"
+    },
+    {
+        "nombre": "Secuencia 387",
+        "secuencia": "TGCGAACC",
+        "informacion": "Informacion de la secuencia 387"
+    },
+    {
+        "nombre": "Secuencia 388",
+        "secuencia": "TACAAGTT",
+        "informacion": "Informacion de la secuencia 388"
+    },
+    {
+        "nombre": "Secuencia 389",
+        "secuencia": "GGCTCCTA",
+        "informacion": "Informacion de la secuencia 389"
+    },
+    {
+        "nombre": "Secuencia 390",
+        "secuencia": "ATAAAATC",
+        "informacion": "Informacion de la secuencia 390"
+    },
+    {
+        "nombre": "Secuencia 391",
+        "secuencia": "CATCGAAT",
+        "informacion": "Informacion de la secuencia 391"
+    },
+    {
+        "nombre": "Secuencia 392",
+        "secuencia": "TATTCCAA",
+        "informacion": "Informacion de la secuencia 392"
+    },
+    {
+        "nombre": "Secuencia 393",
+        "secuencia": "TAAAGTGC",
+        "informacion": "Informacion de la secuencia 393"
+    },
+    {
+        "nombre": "Secuencia 394",
+        "secuencia": "GAATGACT",
+        "informacion": "Informacion de la secuencia 394"
+    },
+    {
+        "nombre": "Secuencia 395",
+        "secuencia": "GAAACAAC",
+        "informacion": "Informacion de la secuencia 395"
+    },
+    {
+        "nombre": "Secuencia 396",
+        "secuencia": "TAGTCCAC",
+        "informacion": "Informacion de la secuencia 396"
+    },
+    {
+        "nombre": "Secuencia 397",
+        "secuencia": "TGTACCAA",
+        "informacion": "Informacion de la secuencia 397"
+    },
+    {
+        "nombre": "Secuencia 398",
+        "secuencia": "TCCGTAGG",
+        "informacion": "Informacion de la secuencia 398"
+    },
+    {
+        "nombre": "Secuencia 399",
+        "secuencia": "CCACTACA",
+        "informacion": "Informacion de la secuencia 399"
+    },
+    {
+        "nombre": "Secuencia 400",
+        "secuencia": "AGAGCCGA",
+        "informacion": "Informacion de la secuencia 400"
+    },
+    {
+        "nombre": "Secuencia 401",
+        "secuencia": "CTCTTGCA",
+        "informacion": "Informacion de la secuencia 401"
+    },
+    {
+        "nombre": "Secuencia 402",
+        "secuencia": "CCTCCAGA",
+        "informacion": "Informacion de la secuencia 402"
+    },
+    {
+        "nombre": "Secuencia 403",
+        "secuencia": "AAGTAATT",
+        "informacion": "Informacion de la secuencia 403"
+    },
+    {
+        "nombre": "Secuencia 404",
+        "secuencia": "CACCATAT",
+        "informacion": "Informacion de la secuencia 404"
+    },
+    {
+        "nombre": "Secuencia 405",
+        "secuencia": "AGTATATG",
+        "informacion": "Informacion de la secuencia 405"
+    },
+    {
+        "nombre": "Secuencia 406",
+        "secuencia": "TGCACAGC",
+        "informacion": "Informacion de la secuencia 406"
+    },
+    {
+        "nombre": "Secuencia 407",
+        "secuencia": "TTCTGCAC",
+        "informacion": "Informacion de la secuencia 407"
+    },
+    {
+        "nombre": "Secuencia 408",
+        "secuencia": "TCCGCACT",
+        "informacion": "Informacion de la secuencia 408"
+    },
+    {
+        "nombre": "Secuencia 409",
+        "secuencia": "AATTGCCC",
+        "informacion": "Informacion de la secuencia 409"
+    },
+    {
+        "nombre": "Secuencia 410",
+        "secuencia": "AAGGGAGG",
+        "informacion": "Informacion de la secuencia 410"
+    },
+    {
+        "nombre": "Secuencia 411",
+        "secuencia": "ACTGAATT",
+        "informacion": "Informacion de la secuencia 411"
+    },
+    {
+        "nombre": "Secuencia 412",
+        "secuencia": "GGCTATCC",
+        "informacion": "Informacion de la secuencia 412"
+    },
+    {
+        "nombre": "Secuencia 413",
+        "secuencia": "AAAAACTG",
+        "informacion": "Informacion de la secuencia 413"
+    },
+    {
+        "nombre": "Secuencia 414",
+        "secuencia": "AATGCAGA",
+        "informacion": "Informacion de la secuencia 414"
+    },
+    {
+        "nombre": "Secuencia 415",
+        "secuencia": "GCGTTACC",
+        "informacion": "Informacion de la secuencia 415"
+    },
+    {
+        "nombre": "Secuencia 416",
+        "secuencia": "ACTTCTAT",
+        "informacion": "Informacion de la secuencia 416"
+    },
+    {
+        "nombre": "Secuencia 417",
+        "secuencia": "GATCCTCC",
+        "informacion": "Informacion de la secuencia 417"
+    },
+    {
+        "nombre": "Secuencia 418",
+        "secuencia": "AGGTATTA",
+        "informacion": "Informacion de la secuencia 418"
+    },
+    {
+        "nombre": "Secuencia 419",
+        "secuencia": "CAAGACCG",
+        "informacion": "Informacion de la secuencia 419"
+    },
+    {
+        "nombre": "Secuencia 420",
+        "secuencia": "TGTGTGGA",
+        "informacion": "Informacion de la secuencia 420"
+    },
+    {
+        "nombre": "Secuencia 421",
+        "secuencia": "CATGGCAA",
+        "informacion": "Informacion de la secuencia 421"
+    },
+    {
+        "nombre": "Secuencia 422",
+        "secuencia": "TGCTACCT",
+        "informacion": "Informacion de la secuencia 422"
+    },
+    {
+        "nombre": "Secuencia 423",
+        "secuencia": "GTAGGGTG",
+        "informacion": "Informacion de la secuencia 423"
+    },
+    {
+        "nombre": "Secuencia 424",
+        "secuencia": "GCCAGGAC",
+        "informacion": "Informacion de la secuencia 424"
+    },
+    {
+        "nombre": "Secuencia 425",
+        "secuencia": "CCCGACTA",
+        "informacion": "Informacion de la secuencia 425"
+    },
+    {
+        "nombre": "Secuencia 426",
+        "secuencia": "CATTGCTA",
+        "informacion": "Informacion de la secuencia 426"
+    },
+    {
+        "nombre": "Secuencia 427",
+        "secuencia": "GCGTACCT",
+        "informacion": "Informacion de la secuencia 427"
+    },
+    {
+        "nombre": "Secuencia 428",
+        "secuencia": "TCCTGCAC",
+        "informacion": "Informacion de la secuencia 428"
+    },
+    {
+        "nombre": "Secuencia 429",
+        "secuencia": "GCCACCAC",
+        "informacion": "Informacion de la secuencia 429"
+    },
+    {
+        "nombre": "Secuencia 430",
+        "secuencia": "GAGGAAGA",
+        "informacion": "Informacion de la secuencia 430"
+    },
+    {
+        "nombre": "Secuencia 431",
+        "secuencia": "GGTAGTGT",
+        "informacion": "Informacion de la secuencia 431"
+    },
+    {
+        "nombre": "Secuencia 432",
+        "secuencia": "CGCCTACC",
+        "informacion": "Informacion de la secuencia 432"
+    },
+    {
+        "nombre": "Secuencia 433",
+        "secuencia": "CGGTCCCG",
+        "informacion": "Informacion de la secuencia 433"
+    },
+    {
+        "nombre": "Secuencia 434",
+        "secuencia": "CCGCTAGT",
+        "informacion": "Informacion de la secuencia 434"
+    },
+    {
+        "nombre": "Secuencia 435",
+        "secuencia": "TGTGACCC",
+        "informacion": "Informacion de la secuencia 435"
+    },
+    {
+        "nombre": "Secuencia 436",
+        "secuencia": "ACTGACGA",
+        "informacion": "Informacion de la secuencia 436"
+    },
+    {
+        "nombre": "Secuencia 437",
+        "secuencia": "ACTTTCTG",
+        "informacion": "Informacion de la secuencia 437"
+    },
+    {
+        "nombre": "Secuencia 438",
+        "secuencia": "GACAAAAA",
+        "informacion": "Informacion de la secuencia 438"
+    },
+    {
+        "nombre": "Secuencia 439",
+        "secuencia": "GACCTTGG",
+        "informacion": "Informacion de la secuencia 439"
+    },
+    {
+        "nombre": "Secuencia 440",
+        "secuencia": "TAGTATAA",
+        "informacion": "Informacion de la secuencia 440"
+    },
+    {
+        "nombre": "Secuencia 441",
+        "secuencia": "CTGGAAGA",
+        "informacion": "Informacion de la secuencia 441"
+    },
+    {
+        "nombre": "Secuencia 442",
+        "secuencia": "AATGAGCC",
+        "informacion": "Informacion de la secuencia 442"
+    },
+    {
+        "nombre": "Secuencia 443",
+        "secuencia": "CTCTGAGT",
+        "informacion": "Informacion de la secuencia 443"
+    },
+    {
+        "nombre": "Secuencia 444",
+        "secuencia": "AGAGTATT",
+        "informacion": "Informacion de la secuencia 444"
+    },
+    {
+        "nombre": "Secuencia 445",
+        "secuencia": "CCTATTTG",
+        "informacion": "Informacion de la secuencia 445"
+    },
+    {
+        "nombre": "Secuencia 446",
+        "secuencia": "CTGAACCG",
+        "informacion": "Informacion de la secuencia 446"
+    },
+    {
+        "nombre": "Secuencia 447",
+        "secuencia": "AATATTTT",
+        "informacion": "Informacion de la secuencia 447"
+    },
+    {
+        "nombre": "Secuencia 448",
+        "secuencia": "GACTACCG",
+        "informacion": "Informacion de la secuencia 448"
+    },
+    {
+        "nombre": "Secuencia 449",
+        "secuencia": "CTTAAGGC",
+        "informacion": "Informacion de la secuencia 449"
+    },
+    {
+        "nombre": "Secuencia 450",
+        "secuencia": "TCACGGCG",
+        "informacion": "Informacion de la secuencia 450"
+    },
+    {
+        "nombre": "Secuencia 451",
+        "secuencia": "AATTCGTC",
+        "informacion": "Informacion de la secuencia 451"
+    },
+    {
+        "nombre": "Secuencia 452",
+        "secuencia": "AATGATTC",
+        "informacion": "Informacion de la secuencia 452"
+    },
+    {
+        "nombre": "Secuencia 453",
+        "secuencia": "AAAAGGCC",
+        "informacion": "Informacion de la secuencia 453"
+    },
+    {
+        "nombre": "Secuencia 454",
+        "secuencia": "TAGCAAGG",
+        "informacion": "Informacion de la secuencia 454"
+    },
+    {
+        "nombre": "Secuencia 455",
+        "secuencia": "CGATGAAT",
+        "informacion": "Informacion de la secuencia 455"
+    },
+    {
+        "nombre": "Secuencia 456",
+        "secuencia": "CTAGTCAG",
+        "informacion": "Informacion de la secuencia 456"
+    },
+    {
+        "nombre": "Secuencia 457",
+        "secuencia": "AGTACAAT",
+        "informacion": "Informacion de la secuencia 457"
+    },
+    {
+        "nombre": "Secuencia 458",
+        "secuencia": "GGTGGCTC",
+        "informacion": "Informacion de la secuencia 458"
+    },
+    {
+        "nombre": "Secuencia 459",
+        "secuencia": "AAGCGACC",
+        "informacion": "Informacion de la secuencia 459"
+    },
+    {
+        "nombre": "Secuencia 460",
+        "secuencia": "GTAGGTCG",
+        "informacion": "Informacion de la secuencia 460"
+    },
+    {
+        "nombre": "Secuencia 461",
+        "secuencia": "TCCCCTGG",
+        "informacion": "Informacion de la secuencia 461"
+    },
+    {
+        "nombre": "Secuencia 462",
+        "secuencia": "AGTAAGTT",
+        "informacion": "Informacion de la secuencia 462"
+    },
+    {
+        "nombre": "Secuencia 463",
+        "secuencia": "TAAGGCGC",
+        "informacion": "Informacion de la secuencia 463"
+    },
+    {
+        "nombre": "Secuencia 464",
+        "secuencia": "ACCTAGCT",
+        "informacion": "Informacion de la secuencia 464"
+    },
+    {
+        "nombre": "Secuencia 465",
+        "secuencia": "GTTTTGTC",
+        "informacion": "Informacion de la secuencia 465"
+    },
+    {
+        "nombre": "Secuencia 466",
+        "secuencia": "AACTTACG",
+        "informacion": "Informacion de la secuencia 466"
+    },
+    {
+        "nombre": "Secuencia 467",
+        "secuencia": "GAGGCGGA",
+        "informacion": "Informacion de la secuencia 467"
+    },
+    {
+        "nombre": "Secuencia 468",
+        "secuencia": "TCTTCCCA",
+        "informacion": "Informacion de la secuencia 468"
+    },
+    {
+        "nombre": "Secuencia 469",
+        "secuencia": "AGGGATAA",
+        "informacion": "Informacion de la secuencia 469"
+    },
+    {
+        "nombre": "Secuencia 470",
+        "secuencia": "TCATGCTC",
+        "informacion": "Informacion de la secuencia 470"
+    },
+    {
+        "nombre": "Secuencia 471",
+        "secuencia": "GTCACTCT",
+        "informacion": "Informacion de la secuencia 471"
+    },
+    {
+        "nombre": "Secuencia 472",
+        "secuencia": "TCGTGCGA",
+        "informacion": "Informacion de la secuencia 472"
+    },
+    {
+        "nombre": "Secuencia 473",
+        "secuencia": "GAGGACAT",
+        "informacion": "Informacion de la secuencia 473"
+    },
+    {
+        "nombre": "Secuencia 474",
+        "secuencia": "GTGAAGGC",
+        "informacion": "Informacion de la secuencia 474"
+    },
+    {
+        "nombre": "Secuencia 475",
+        "secuencia": "ATGTTCGG",
+        "informacion": "Informacion de la secuencia 475"
+    },
+    {
+        "nombre": "Secuencia 476",
+        "secuencia": "CTAAACCG",
+        "informacion": "Informacion de la secuencia 476"
+    },
+    {
+        "nombre": "Secuencia 477",
+        "secuencia": "AGAGTGAG",
+        "informacion": "Informacion de la secuencia 477"
+    },
+    {
+        "nombre": "Secuencia 478",
+        "secuencia": "ATGACGTC",
+        "informacion": "Informacion de la secuencia 478"
+    },
+    {
+        "nombre": "Secuencia 479",
+        "secuencia": "ATTAAAAC",
+        "informacion": "Informacion de la secuencia 479"
+    },
+    {
+        "nombre": "Secuencia 480",
+        "secuencia": "TTCGGCCG",
+        "informacion": "Informacion de la secuencia 480"
+    },
+    {
+        "nombre": "Secuencia 481",
+        "secuencia": "ATACACAA",
+        "informacion": "Informacion de la secuencia 481"
+    },
+    {
+        "nombre": "Secuencia 482",
+        "secuencia": "CGCTGACA",
+        "informacion": "Informacion de la secuencia 482"
+    },
+    {
+        "nombre": "Secuencia 483",
+        "secuencia": "AGTCTAAT",
+        "informacion": "Informacion de la secuencia 483"
+    },
+    {
+        "nombre": "Secuencia 484",
+        "secuencia": "AGGCCGAG",
+        "informacion": "Informacion de la secuencia 484"
+    },
+    {
+        "nombre": "Secuencia 485",
+        "secuencia": "GAGTCATA",
+        "informacion": "Informacion de la secuencia 485"
+    },
+    {
+        "nombre": "Secuencia 486",
+        "secuencia": "TGAAAGCA",
+        "informacion": "Informacion de la secuencia 486"
+    },
+    {
+        "nombre": "Secuencia 487",
+        "secuencia": "ACGGAATC",
+        "informacion": "Informacion de la secuencia 487"
+    },
+    {
+        "nombre": "Secuencia 488",
+        "secuencia": "AGCTCAAC",
+        "informacion": "Informacion de la secuencia 488"
+    },
+    {
+        "nombre": "Secuencia 489",
+        "secuencia": "ATCACATA",
+        "informacion": "Informacion de la secuencia 489"
+    },
+    {
+        "nombre": "Secuencia 490",
+        "secuencia": "GACTTGAT",
+        "informacion": "Informacion de la secuencia 490"
+    },
+    {
+        "nombre": "Secuencia 491",
+        "secuencia": "AGCAGATG",
+        "informacion": "Informacion de la secuencia 491"
+    },
+    {
+        "nombre": "Secuencia 492",
+        "secuencia": "TTCACTAC",
+        "informacion": "Informacion de la secuencia 492"
+    },
+    {
+        "nombre": "Secuencia 493",
+        "secuencia": "GCGAACGC",
+        "informacion": "Informacion de la secuencia 493"
+    },
+    {
+        "nombre": "Secuencia 494",
+        "secuencia": "AACCGACC",
+        "informacion": "Informacion de la secuencia 494"
+    },
+    {
+        "nombre": "Secuencia 495",
+        "secuencia": "ACTAGCAC",
+        "informacion": "Informacion de la secuencia 495"
+    },
+    {
+        "nombre": "Secuencia 496",
+        "secuencia": "CAGTACAT",
+        "informacion": "Informacion de la secuencia 496"
+    },
+    {
+        "nombre": "Secuencia 497",
+        "secuencia": "AATTCTAA",
+        "informacion": "Informacion de la secuencia 497"
+    },
+    {
+        "nombre": "Secuencia 498",
+        "secuencia": "GCTTCCCA",
+        "informacion": "Informacion de la secuencia 498"
+    },
+    {
+        "nombre": "Secuencia 499",
+        "secuencia": "ATGACTGA",
+        "informacion": "Informacion de la secuencia 499"
+    }
+]
